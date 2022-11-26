@@ -65,4 +65,4 @@ request(abcdef)
 		game:GetService('Players').LocalPlayer:Kick('\n BLACKLISTED: \n '..Reason)
 	end
 end
-Blacklist(3953997746, "HWID", "bc ur black")
+Blacklist(ID, "HWID", "RZN")
